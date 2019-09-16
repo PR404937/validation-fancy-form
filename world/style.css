@@ -1,0 +1,132 @@
+ body{
+ background-image: linear-gradient(90deg, violet, cyan);
+ background-size: 100%;
+ background-size: cover;
+
+ }
+
+
+
+.login_section{
+	box-shadow: 0 0 5px black;
+    width: 300px;
+    text-align: center;
+    margin: 100px auto;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: lightgoldenrodyellow;
+    color: red;
+    box-shadow: 0 0 50px black;
+}
+
+#username{
+	  font-size: 18px;
+    margin: 5px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background:transparent;
+    
+
+}
+
+#password{
+ font-size: 18px;
+    margin: 5px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background:transparent;
+    
+
+}	
+#c_passwword{
+
+ font-size: 18px;
+    margin: 5px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background:transparent;
+    
+
+}
+
+#email{
+
+ font-size: 18px;
+    margin: 5px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background:transparent;
+    
+
+}
+
+
+
+#c_number{
+
+ font-size: 18px;
+    margin: 5px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background:transparent;
+    
+
+}
+
+
+
+#submit{ 
+	border:none;
+ font-size: 20px;
+    margin: 30px;
+    height: 50px;
+    border-radius: 10px;
+   width: 100px;
+  background-image:  linear-gradient(90deg, red, violet);
+  box-shadow: 0 0 5px black;
+}
+.reset{
+border:none;
+ font-size: 20px;
+    margin: 5px;
+    height: 50px;
+ width: 100px;
+    border-radius: 10px;
+    background-image:  linear-gradient(90deg, blue, violet);
+    box-shadow: 0 0 5px black; 
+}
+
+        .fa-user-circle{
+
+            color: red;
+
+            font-size: 90px;
+
+            margin-top: -50px;
+
+            box-shadow: 0 0 5px #b87676;
+
+            border-radius: 50%;
+            text-align: center;
+        }
+
+#error-msg h3{
+    background-color: red;
+    width: 300px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    color: white;
+}
